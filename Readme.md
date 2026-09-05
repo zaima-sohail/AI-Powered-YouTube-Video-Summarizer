@@ -6,6 +6,10 @@ TubeBrief AI is an AI-powered web application that converts long YouTube video t
 
 The application uses **Streamlit** for the web interface, **YouTube Transcript API** for transcript extraction, and **Groq AI** for intelligent summarization.
 
+LIVE URL LINK:https://tubebrief-ai.streamlit.app/
+
+
+
 ---
 <img width="1906" height="1013" alt="Screenshot 2026-09-04 222340" src="https://github.com/user-attachments/assets/cdf94da7-6fd2-42f3-a129-b728bc35fdb4" />
 <img width="1904" height="1013" alt="Screenshot 2026-09-04 222354" src="https://github.com/user-attachments/assets/1c9df4d6-b189-4303-aa53-56b0ebe29f13" />
